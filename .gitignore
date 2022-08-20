@@ -1,0 +1,32 @@
+﻿# No se sube la carpeta .vs y todo su contenido que se crea al descargar el proyecto
+.vs/
+
+# No se sube la carpeta obj y su contenido
+**/obj/*
+
+# No se sube la carpeta bin y su contenido
+**/bin/*
+
+# No se sube la carpeta packages y su contenido
+*/packages/*
+
+# No se sube los archivos de extension *.user
+*.user
+
+# No se sube los archivos de extension *.vspscc
+*.vspscc
+
+# No se sube los archivos de extension *.yml
+*.yml
+
+# No se sube los archivos de extension *.nupkg
+*.nupkg
+
+# No se sube los archivos de extension *.ps1
+*.ps1
+
+# No se sube los archivos de extension *.exe
+*.exe
+
+# No se sube la carpeta bin y su contenido
+*/node_modules/*

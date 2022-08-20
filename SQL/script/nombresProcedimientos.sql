@@ -1,0 +1,5 @@
+pConsultaArea
+pConsultaIdArea
+pActualizaArea
+pCreaArea
+pEliminaArea
